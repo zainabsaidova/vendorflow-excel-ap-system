@@ -1,0 +1,13 @@
+Vendor ID,Vendor Name,Category,Contact Person,Email,Phone,Payment Terms (Days),Vendor Status,Invoices,Total Invoiced,Total Paid,Outstanding Balance,Overdue Amount,On-Time Delivery Rate,Full Receipt Rate,Avg Days to Pay,Supplier Score,Performance Rating
+VEN-001,Northwind Paper Supply,Office Supplies,Dana Whitfield,dana.whitfield@northwindpaper.example,(312) 555-0142,30,Active,6,8999.05,3822.31,5176.74,4090.42,0.83,0.83,21,0.83,B
+VEN-002,Cascade Foods Distribution,Food & Beverage,Marco Ruiz,marco.ruiz@cascadefoods.example,(312) 555-0177,15,Active,6,16224.28,14304.51,1919.77,1919.77,0.83,0.5,10,0.7,C
+VEN-003,Ironbridge Hardware Co.,Maintenance & Repair,Priya Nadar,priya.nadar@ironbridgehw.example,(773) 555-0188,45,Active,5,16426.14,6023.58,10402.56,4198.12,0.6,1,8,0.76,C
+VEN-004,Lakeshore Packaging Group,Packaging,Ellen Novak,ellen.novak@lakeshorepkg.example,(847) 555-0113,30,Active,7,28514.87,22236.69,6278.18,1941.11,1,1,16,1,A
+VEN-005,Summit Cleaning Services,Facility Services,Tomas Berg,tomas.berg@summitclean.example,(224) 555-0166,14,Active,7,11595.55,11595.55,0,0,0.71,0.86,9,0.77,C
+VEN-006,Harborline Logistics,Logistics,Aisha Karim,aisha.karim@harborlinelog.example,(312) 555-0120,30,Active,10,35790.13,27898.6,7891.53,7891.53,0.6,0.9,22,0.72,C
+VEN-007,Bluepoint Electrical Supply,Electrical,Greg Salinas,greg.salinas@bluepointel.example,(630) 555-0195,30,Active,2,3767.45,3767.45,0,0,0.5,1,19,0.7,C
+VEN-008,Prairie Print & Signage,Marketing & Print,Nora Feldman,nora.feldman@prairieprint.example,(773) 555-0154,21,Active,1,672.92,672.92,0,0,1,1,8,1,A
+VEN-009,Vertex IT Solutions,IT & Software,Kevin Osei,kevin.osei@vertexit.example,(312) 555-0131,30,Active,5,23638.56,22773.69,864.87,864.87,1,1,20,1,A
+VEN-010,Copperfield Textiles,Textiles,Marta Silva,marta.silva@copperfieldtex.example,(847) 555-0109,60,Active,6,47071.78,29122.99,17948.79,9042.96,0.67,0.83,49,0.73,C
+VEN-011,Redstone Safety Equipment,Safety & PPE,Owen Brady,owen.brady@redstonesafety.example,(630) 555-0172,30,Active,2,5653.27,2891.99,2761.28,2761.28,1,1,13,1,A
+VEN-012,Willowbrook Beverage Co.,Food & Beverage,Lena Hart,lena.hart@willowbrookbev.example,(224) 555-0148,15,Inactive,3,4054.71,4054.71,0,0,1,1,15,1,A

@@ -1,0 +1,61 @@
+Invoice ID,Vendor Name,Invoice Date,Due Date,Outstanding Balance,Days to Due Date,Priority Bucket,Priority Rank,Planned Payment Date,Planned Amount,Remaining After Plan,Plan Status
+INV-1001,Copperfield Textiles,2026-03-03,2026-05-02,,,Closed,,,,,No action needed
+INV-1002,Harborline Logistics,2026-03-04,2026-04-03,,,Closed,,,,,No action needed
+INV-1003,Harborline Logistics,2026-03-10,2026-04-09,6019.33,-151,Overdue,1,2026-09-08,3009.66,3009.67,Partly planned
+INV-1004,Cascade Foods Distribution,2026-03-09,2026-03-24,,,Closed,,,,,No action needed
+INV-1005,Harborline Logistics,2026-03-13,2026-04-12,,,Closed,,,,,No action needed
+INV-1006,Summit Cleaning Services,2026-03-14,2026-03-28,,,Closed,,,,,No action needed
+INV-1007,Willowbrook Beverage Co.,2026-03-18,2026-04-02,,,Closed,,,,,No action needed
+INV-1008,Northwind Paper Supply,2026-03-20,2026-04-19,,,Closed,,,,,No action needed
+INV-1009,Redstone Safety Equipment,2026-03-25,2026-04-24,,,Closed,,,,,No action needed
+INV-1010,Copperfield Textiles,2026-03-26,2026-05-25,9042.96,-105,Overdue,3,2026-09-10,9042.96,0,Fully planned
+INV-1011,Harborline Logistics,2026-03-25,2026-04-24,,,Closed,,,,,No action needed
+INV-1012,Summit Cleaning Services,2026-04-03,2026-04-17,,,Closed,,,,,No action needed
+INV-1013,Vertex IT Solutions,2026-03-29,2026-04-28,,,Closed,,,,,No action needed
+INV-1014,Ironbridge Hardware Co.,2026-03-31,2026-05-15,,,Closed,,,,,No action needed
+INV-1015,Northwind Paper Supply,2026-04-02,2026-05-02,2483.16,-128,Overdue,2,2026-09-09,2483.16,0,Fully planned
+INV-1016,Ironbridge Hardware Co.,2026-04-04,2026-05-19,,,Closed,,,,,No action needed
+INV-1017,Vertex IT Solutions,2026-04-04,2026-05-04,,,Closed,,,,,No action needed
+INV-1018,Cascade Foods Distribution,2026-04-08,2026-04-23,,,Closed,,,,,No action needed
+INV-1019,Harborline Logistics,2026-04-26,2026-05-26,767.7,-104,Overdue,4,2026-09-11,767.7,0,Fully planned
+INV-1020,Lakeshore Packaging Group,2026-04-13,2026-05-13,,,Closed,,,,,No action needed
+INV-1021,Bluepoint Electrical Supply,2026-04-27,2026-05-27,,,Closed,,,,,No action needed
+INV-1022,Copperfield Textiles,2026-04-19,2026-06-18,,,Closed,,,,,No action needed
+INV-1023,Lakeshore Packaging Group,2026-04-27,2026-05-27,,,Closed,,,,,No action needed
+INV-1024,Ironbridge Hardware Co.,2026-04-29,2026-06-13,4198.12,-86,Overdue,5,2026-09-12,2099.06,2099.06,Partly planned
+INV-1025,Willowbrook Beverage Co.,2026-05-01,2026-05-16,,,Closed,,,,,No action needed
+INV-1026,Willowbrook Beverage Co.,2026-05-04,2026-05-19,,,Closed,,,,,No action needed
+INV-1027,Copperfield Textiles,2026-05-04,2026-07-03,,,Closed,,,,,No action needed
+INV-1028,Prairie Print & Signage,2026-05-08,2026-05-29,,,Closed,,,,,No action needed
+INV-1029,Copperfield Textiles,2026-05-10,2026-07-09,,,Closed,,,,,No action needed
+INV-1030,Vertex IT Solutions,2026-05-11,2026-06-10,,,Closed,,,,,No action needed
+INV-1031,Lakeshore Packaging Group,2026-05-30,2026-06-29,,,Closed,,,,,No action needed
+INV-1032,Vertex IT Solutions,2026-06-01,2026-07-01,,,Closed,,,,,No action needed
+INV-1033,Summit Cleaning Services,2026-05-30,2026-06-13,,,Closed,,,,,No action needed
+INV-1034,Cascade Foods Distribution,2026-06-05,2026-06-20,641.28,-79,Overdue,6,2026-09-08,641.28,0,Fully planned
+INV-1035,Lakeshore Packaging Group,2026-06-05,2026-07-05,,,Closed,,,,,No action needed
+INV-1036,Bluepoint Electrical Supply,2026-06-05,2026-07-05,,,Closed,,,,,No action needed
+INV-1037,Lakeshore Packaging Group,2026-06-16,2026-07-16,1941.11,-53,Overdue,7,2026-09-09,1941.11,0,Fully planned
+INV-1038,Summit Cleaning Services,2026-06-22,2026-07-06,,,Closed,,,,,No action needed
+INV-1039,Summit Cleaning Services,2026-06-29,2026-07-13,,,Closed,,,,,No action needed
+INV-1040,Northwind Paper Supply,2026-06-23,2026-07-23,1607.26,-46,Overdue,8,2026-09-10,1607.26,0,Fully planned
+INV-1041,Cascade Foods Distribution,2026-06-28,2026-07-13,,,Closed,,,,,No action needed
+INV-1042,Cascade Foods Distribution,2026-06-28,2026-07-13,,,Closed,,,,,No action needed
+INV-1043,Vertex IT Solutions,2026-07-07,2026-08-06,864.87,-32,Overdue,10,,,864.87,Not planned yet
+INV-1044,Northwind Paper Supply,2026-07-07,2026-08-06,,,Closed,,,,,No action needed
+INV-1045,Cascade Foods Distribution,2026-07-09,2026-07-24,1278.49,-45,Overdue,9,2026-09-11,639.25,639.24,Partly planned
+INV-1046,Redstone Safety Equipment,2026-07-12,2026-08-11,2761.28,-27,Overdue,11,,,2761.28,Not planned yet
+INV-1047,Harborline Logistics,2026-07-14,2026-08-13,,,Closed,,,,,No action needed
+INV-1048,Harborline Logistics,2026-07-17,2026-08-16,1104.5,-22,Overdue,12,,,1104.5,Not planned yet
+INV-1049,Ironbridge Hardware Co.,2026-07-26,2026-09-09,3748.61,2,Due in 0-7 Days,13,,,3748.61,Not planned yet
+INV-1050,Harborline Logistics,2026-07-20,2026-08-19,,,Closed,,,,,No action needed
+INV-1051,Summit Cleaning Services,2026-07-23,2026-08-06,,,Closed,,,,,No action needed
+INV-1052,Harborline Logistics,2026-07-28,2026-08-27,,,Closed,,,,,No action needed
+INV-1053,Northwind Paper Supply,2026-08-01,2026-08-31,,,Closed,,,,,No action needed
+INV-1054,Ironbridge Hardware Co.,2026-08-10,2026-09-24,2455.83,17,Due in 15-30 Days,14,,,2455.83,Not planned yet
+INV-1055,Harborline Logistics,2026-08-17,2026-09-16,,,Closed,,,,,No action needed
+INV-1056,Summit Cleaning Services,2026-08-16,2026-08-30,,,Closed,,,,,No action needed
+INV-1057,Copperfield Textiles,2026-08-29,2026-10-28,9418.22,51,Due in 31+ Days,18,,,9418.22,Not planned yet
+INV-1058,Lakeshore Packaging Group,2026-08-25,2026-09-24,2545.37,17,Due in 15-30 Days,15,,,2545.37,Not planned yet
+INV-1059,Northwind Paper Supply,2026-09-02,2026-10-02,1086.32,25,Due in 15-30 Days,16,,,1086.32,Not planned yet
+INV-1060,Lakeshore Packaging Group,2026-09-06,2026-10-06,1791.7,29,Due in 15-30 Days,17,,,1791.7,Not planned yet
